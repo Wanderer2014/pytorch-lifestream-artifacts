@@ -1,1 +1,1 @@
-# pytorch-lifestream-artifacts
+Trained models history for `pytorch-lifestream`
